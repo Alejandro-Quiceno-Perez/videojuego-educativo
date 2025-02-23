@@ -7,13 +7,18 @@ estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos. 
 
 
-El  protagonista  de  esta  aventura  es  [NOMBRE],  un/a  [DESCRIPCIÓN  FÍSICA  Y  DE 
-PERSONALIDAD].  [NOMBRE]  es  un/a  [ROL]  que  ha  sido  elegido/a  para  una  misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS] 
+El  protagonista  de  esta  aventura  es  Noa,  un  joven de unos 12 años, cabello corto 
+y ojos azules que reflejan curiosidad, de personalidad inquisitiva, valiente y analítica.
+Noa  es  un explorador de la mente humana  que  ha  sido  elegido  para  una  misión 
+única: reunir los Fragmentos de la Mente para restaurar su consciencia y encontrar la salida
+del Psiquiátrico Onírico antes de quedar atrapado para siempre. Con su habilidad especial
+"Claridad Lúcida", que le permite ver a través de ilusiones y reconocer patrones ocultos
+en los sueños, Noa deberá enfrentarse a desafíos cada vez más complejos mientras aprende
+y enseña a los jugadores conceptos clave de Psicología. 
+El jugador podrá explorar libremente escenarios oníricos inspirados en conceptos psicológicos,
+para avanzar deberá resolver acertijos y tomar decisiones narrativas que afectarán el desarrollo
+de la historia y los desafíos incluirán pruebas de lógica, interpretación de ilusiones ópticas,
+juegos de memoria y encuentros con representaciones simbólicas de emociones y trastornos psicológicos. 
 
 
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
