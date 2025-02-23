@@ -31,7 +31,7 @@ visuales, donde deberan ifentificar patrones y reconocer como los sentidos puede
 reforzara el concepto de memoria a traves de juegos interactivos de memoria visual y auditiva, donde 
 los jugadores deben recordar detalles clave para avanzar en la historia. las evaluaciones se realizaran
 mediante analisis de decisiones y resultados de los acertijos resueltos, lo que permitira a los
-profesores y estudiantes medir el progreso de manera efectiva. 
+profesores y estudiantes medir el progreso de manera efectiva.
 
 
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 
