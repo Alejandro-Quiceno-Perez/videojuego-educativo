@@ -21,13 +21,17 @@ de la historia y los desafíos incluirán pruebas de lógica, interpretación de
 juegos de memoria y encuentros con representaciones simbólicas de emociones y trastornos psicológicos. 
 
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
+Los estudiantes avanzarán mediante un sistema de puntos y recompensas, donde completan desafios,
+resuelven acertijos y toman decisiones narrativas que les permiten desbloquear nuevos niveles. cada
+nivel representa un concepto educativo relacionador con la psicologia, como la percepcion, la memoria,
+o los trastornos psicologicos, y los jugadores recibiran retroalimentacion inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
-Los  jugadores  aprenderán  [CONCEPTO  1]  mediante  [ACTIVIDAD  1].  Se  reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante 
-[MÉTODO],  lo  que  permitirá  a  los  profesores  y  estudiantes  medir  el  progreso  de 
-manera efectiva. 
+Los  jugadores  aprenderán  la teoria de la percepcion mediante pruebas de ilusiones opticas y acertijos
+visuales, donde deberan ifentificar patrones y reconocer como los sentidos pueden ser engañados. Se
+reforzara el concepto de memoria a traves de juegos interactivos de memoria visual y auditiva, donde 
+los jugadores deben recordar detalles clave para avanzar en la historia. las evaluaciones se realizaran
+mediante analisis de decisiones y resultados de los acertijos resueltos, lo que permitira a los
+profesores y estudiantes medir el progreso de manera efectiva. 
 
 
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 
